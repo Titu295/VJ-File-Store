@@ -4,14 +4,16 @@
 
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ {} 
+    START_TXT = """<b>Hᴇʟʟᴏ {}💗
+    ᴍʏ ɴᴀᴍᴇ {} 💞
     ɪ  ᴀᴍ ᴩᴏᴡᴇʀꜰᴜʟʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ ʏᴏᴜ ᴄᴀɴ ꜱᴛᴏʀᴇ ʜᴇʀᴇ ʏᴏᴜʀ ᴀʟʟ ꜰɪʟᴇꜱ 
     ᴀɴᴅ ʏᴏᴜ ɢᴇᴛ ᴍᴀɴʏ ᴍᴏʀᴇ ꜰᴇᴀᴛᴜʀᴇꜱ 
     
     ʟɪᴋᴇ ✨
     ꜱᴛʀᴇᴀᴍ 
     ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ 
-    ᴠᴇʀɪꜰʏ ᴍᴏᴅᴇ ᴄʟᴏɴᴇ ʙᴏᴛ 
+    ᴠᴇʀɪꜰʏ ᴍᴏᴅᴇ 
+    ᴄʟᴏɴᴇ ʙᴏᴛ 
     
     <b><spoiler> 🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :  <a href=http://t.me/Titu_Movie_247_Bot> Mᴀɴᴀɢᴇʀ⚡ </spoiler></b></a></b>"""
 
@@ -56,24 +58,24 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
+📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴩʏᴛʜᴏɴ3</a>
 
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
+📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>ᴩʏʀᴏɢʀᴀᴍ</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Kingvj01>𝐓𝐞𝐜𝐡 𝐕𝐉</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/TituMovieSupport>ꜱᴀʀᴠᴇꜱʜ</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/VJ_Bot_Disscussion>𝐕𝐉 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/+zRkE-xV94so4MmY1>ᴛɪᴛᴜ ᴍᴏᴠɪᴇ ʀᴇqᴜᴇꜱᴛ</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/vj_botz>𝐕𝐉 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
+📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Titu_Movie>ᴛɪᴛᴜ ᴍᴏᴠɪᴇ</a></b>
 """
 
     CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>𝐏𝐲𝐭𝐡𝐨𝐧𝟑</a>
+📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴩʏᴛʜᴏɴ3</a>
 
-📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
+📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>ᴩʏʀᴏɢʀᴀᴍ</a>
 
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=tg://user?id={}>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>
 """
